@@ -1,0 +1,42 @@
+
+Recap:
+  Last Session
+
+
+Topics:
+
+  API ---> Application Programming Interface
+
+    JSON ---> Javascript Object Notation
+
+    Datatype used by API ---> XML, JSON
+
+    Click on New Posts ---> Give an API request which tries to fetch the details of Posts
+
+      Facebookt Request to  https://server-fb.com/posts ---> give posts.json
+    
+
+  HTTP Request Methods ---> GET, POST, PUT, DELETE (CRUD)
+    
+    POST ---> Create data/entity( Creating a new post in FB ) or Do a operation(Login) in server
+    GET ---> Read data from server ( Reading a Post in FB )
+    PUT ---> Updating data/entity in server ( Editing a post in FB )
+    DELETE ---> Delete data/entity in server ( Remove/Delete a post in FB )
+
+
+  Making an API Call --->
+
+  Iteration of Array  (for, for of , forEach)
+  
+  JSON iteration (for in)
+
+
+  Next Session
+
+  Window ---> Represents single Tab
+  
+  Document ---> Represents the HTML document
+
+
+  Copy by Value( Primitive Type ) & Copy By Reference ( Composite Types )
+  
